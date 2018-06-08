@@ -6,6 +6,10 @@
 
 ## 本Demo效果
 
+入口：
+
+![](./img/main.png)
+
 ### 展示FloatingActionButton和SnackBar的使用
 
 ![](./img/1.gif)
