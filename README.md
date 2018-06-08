@@ -10,7 +10,6 @@
 
 ![](./img/1.gif)
 
-
 ### 自定义Behavior，显示和隐藏自己View
 
 这个demo里没有用到系统提供的系统控件作为dependency view，同时实现了child view和dependency view的逻辑，使得dependency view的变化能自动触发child view。
