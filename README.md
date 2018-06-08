@@ -35,7 +35,7 @@
 * **exitUntilCollapsed**：当这个View要往上逐渐“消逝”时，会一直往上滑动，直到剩下的的高度达到它的最小高度后，再响应ScrollView的内部滑动事件。
 * **enterAlwaysCollapsed**：是enterAlways的附加选项，一般跟enterAlways一起使用，它是指，View在往下“出现”的时候，首先是enterAlways效果，当View的高度达到最小高度时，View就暂时不去往下滚动，直到ScrollView滑动到顶部不再滑动时，View再继续往下滑动，直到滑到View的顶部结束。
 
-** PS：enterAlways、exitUntilCollapsed和enterAlwaysCollapsed的使用必须配合scroll**
+** PS：enterAlways、exitUntilCollapsed和enterAlwaysCollapsed的使用必须配合scroll **
 
 ![](./img/4.gif)
 
@@ -66,3 +66,6 @@
 ![](./img/9.gif)
 
 
+## 更多实例
+
+![https://www.jianshu.com/p/5328b2eee827](https://www.jianshu.com/p/5328b2eee827)
