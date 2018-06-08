@@ -36,4 +36,30 @@
 
 ![](./img/4.gif)
 
-### 
+### Nest方式，包含了系统和自定义效果
+
+系统的FloatingActionButton的效果，和自定义的Button的效果
+
+![](./img/5.gif)
+
+### dependency方式的效果
+
+通过跟随的一个例子来说明的。
+
+![](./img/6.gif)
+
+### NestedScrollView的跟随效果
+
+这个也是Nest的方式
+
+![](./img/7.gif)
+
+### 头部TabLayout
+
+![](./img/8.gif)
+
+### CollapsingToolbarLayout
+
+![](./img/9.gif)
+
+
