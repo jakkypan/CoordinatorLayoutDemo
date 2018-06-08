@@ -43,13 +43,13 @@ Class<? extends Behavior> value();
 
 在View的onMeasure()里完成注解的解析：
 
-![](/img/p2.png)
+![](img/p2.png)
 
 > layout方式
 
 在xml里标明实现的Behavior类`app:layout_behavior=XXX`，这里也是通过反射，触发的时机是在LayoutParams实例化完成的时候。
 
-![](/img/p1.png)
+![](img/p1.png)
 
 #### 2种协调方式
 
